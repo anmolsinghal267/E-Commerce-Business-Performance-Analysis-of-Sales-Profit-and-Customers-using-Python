@@ -69,7 +69,6 @@ The project addresses 15 distinct business problems, systematically grouped acro
 
 ## Business Conclusions drawn from each Problem Statement
 
-The project addresses 15 distinct business problems, systematically grouped across sales, profitability, customer behavior, and regional performance.
 
 |Problem | Conclusions |
 |---------------|-------------|
